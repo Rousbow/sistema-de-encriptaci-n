@@ -1,0 +1,26 @@
+.titulo {
+    margin-bottom: 10px;
+  }
+  
+  .lab {
+    margin-bottom: 5px;
+  }
+  
+  .buttons {
+    margin-top: 10px;
+  }
+  
+  .footer {
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    background-color: #222;
+    color: #ccc;
+    text-align: center;
+    padding: 50px 0;
+  }
+  
+  .pie {
+    font-size: 0.8em;
+  }
+  
